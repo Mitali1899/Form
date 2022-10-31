@@ -91,6 +91,17 @@ textarea {
   padding-left: 90px; /* same size as the label elements */
 }
 
+button {
+  margin: .5em;
+  font-size: 1em;
+  text-transform: capitalize;
+  background-color: red;
+  color: white;
+  border: none;
+  padding: 5px;
+  border-radius: 2px;
+}
+
 #submitbutton {
   display: flex; 
   justify-content: center;
